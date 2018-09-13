@@ -1,0 +1,29 @@
+{
+  "name": "tx_btc_testnet",
+  "version": "1.0.0",
+  "description": "Create transaction on bitcoin testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GuigsEvt/btc_transaction_testnet.git"
+  },
+  "keywords": [
+    "btc",
+    "testnet"
+  ],
+  "author": "guigs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuigsEvt/btc_transaction_testnet/issues"
+  },
+  "homepage": "https://github.com/GuigsEvt/btc_transaction_testnet#readme",
+  "dependencies": {
+    "bitcoinjs-lib": "^4.0.1",
+    "blockcypher": "^0.2.0",
+    "blocktrail-sdk": "^3.7.12",
+    "util": "^0.11.0"
+  }
+}
