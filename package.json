@@ -22,8 +22,8 @@
   "homepage": "https://github.com/GuigsEvt/btc_transaction_testnet#readme",
   "dependencies": {
     "bitcoinjs-lib": "^4.0.1",
+    "async": "^2.1.5",
     "blockcypher": "^0.2.0",
-    "blocktrail-sdk": "^3.7.12",
     "util": "^0.11.0"
   }
 }
